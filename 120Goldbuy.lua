@@ -20,7 +20,7 @@ game:GetService("ReplicatedStorage").Resources.Remotes.RemoteEvents.BuyItem:Fire
 
 local args = {
     [1] = "Gold 1000w",
-    [2] = false,
+    [2] = true,
     [3] = "1"
 }
 
